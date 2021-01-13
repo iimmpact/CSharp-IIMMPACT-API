@@ -1,4 +1,4 @@
-# IIMMPACT - The C# library for the IIMMPACT API
+# IIMMPACT - The C# library for IIMMPACT API
 
 <a name="frameworks-supported"></a>
 ## Frameworks supported
